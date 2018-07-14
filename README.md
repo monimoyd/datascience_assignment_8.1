@@ -1,1 +1,1 @@
-# datascience_assignment_8.1
+# Acadgild Datascience assignment 8.1 (scipy)
